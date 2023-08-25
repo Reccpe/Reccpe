@@ -1,5 +1,5 @@
 # 💫 About Me:
-📘I Just Started to coding to GLUA<br>🔖Im junior developer of C++ & Game Hacking & Reverse Engineering<br>📬One of my favorite job is Front-end Website Development <br>💻My another favorite job is CyberSecurity as well<br>❤️Thanks for visiting my profile <3
+📘I Started coding With GLUA <br>🔖Im junior developer of C++ & Game Hacking & Reverse Engineering<br>📬One of my favorite job is Front-end Website Development <br>❤️Thanks for visiting my profile <3
 
 
 ## 🌐 Socials:
