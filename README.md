@@ -12,7 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reccpe&show_icons=true&locale=en&layout=compact" alt="reccpe" /></p>
 
-
-[![](https://visitcount.itsvg.in/api?id=Reccpe&icon=0&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
