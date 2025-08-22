@@ -1,8 +1,4 @@
-<h1 align="center">Hi, im Reccpe</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reccpe&label=Profile%20views&color=0e75b6&style=flat" alt="reccpe" /> </p>
-
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
